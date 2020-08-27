@@ -1,0 +1,52 @@
+#welcome{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    flex-direction: column;
+}
+.contain1{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.contain1> div{
+    margin: 0px 15px ;
+}
+
+#project{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    flex-direction: column;
+}
+
+a{
+  color: white;
+}
+a:hover{
+    color : orange;
+    text-decoration: none;
+}
+image{
+    width: 60%;
+    height: 300px;
+}
+
+#contact{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    flex-direction: column;
+}
